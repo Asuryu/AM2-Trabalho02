@@ -1,4 +1,4 @@
-function [t,u,v] = NRK2SED(f,g,a,b,n,u0,v0)
+function [t,u,v] = NRK2_SED(f,g,a,b,n,u0,v0)
 %NEULERSED Método de RK2 para um Sistema de SED/PVI
 %   Detailed explanation goes here
 %   15/04/2021  Arménio Correia   armenioc@isec.pt
